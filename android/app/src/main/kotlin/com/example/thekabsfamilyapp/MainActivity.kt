@@ -1,4 +1,4 @@
-package com.example.thekabsfamilyapp
+package com.kabsfamily
 
 import io.flutter.embedding.android.FlutterActivity
 
