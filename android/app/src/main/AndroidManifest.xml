@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.thekabsfamilyapp">
+    package="com.kabsfamily.thekabsfamilyapp">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="thekabsfamilyapp"
+        android:label="Kabs"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

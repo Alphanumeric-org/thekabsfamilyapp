@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1077784194883",
+    "project_id": "kabsfamilyapp",
+    "storage_bucket": "kabsfamilyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077784194883:android:97b8109c961f3f7e0989f6",
+        "android_client_info": {
+          "package_name": "com.kabsfamily.thekabsfamilyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077784194883-fb6vvuji71q3iknug7p1ckkt9rn8gml0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIs9iKGSYlecjBdFWmTaHOgPuDUvL8O_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077784194883-1tcmbh645ab5o330uu2fd6g149fl1mhj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077784194883-ddp1u60kfckgl0mkhr5mj9k77pk4qqvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kabsfamily.thekabsfamilyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
