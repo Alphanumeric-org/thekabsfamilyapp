@@ -38,6 +38,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        elevation: 0.0,
+        centerTitle: true,
         title: Text(widget.title),
       ),
       body: const Center(
@@ -50,10 +52,6 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {},
-        child: const Icon(Icons.all_inclusive_outlined),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }
