@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1077784194883:android:97b8109c961f3f7e0989f6",
+        "mobilesdk_app_id": "1:1077784194883:android:10de99d7a93762b50989f6",
         "android_client_info": {
           "package_name": "com.kabsfamily.thekabsfamilyapp"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1077784194883-ukigcoq6h7pi11t94so2fqv7rifval9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kabsfamily.thekabsfamilyapp",
+            "certificate_hash": "a964e6c1b6cb758dd9137eec8f82e8e6b03723bb"
+          }
+        },
         {
           "client_id": "1077784194883-fb6vvuji71q3iknug7p1ckkt9rn8gml0.apps.googleusercontent.com",
           "client_type": 3
